@@ -1,0 +1,7 @@
+.vscode
+*.bak
+*.mpf
+*.cr.mti
+work
+transcript
+vsim.wlf
